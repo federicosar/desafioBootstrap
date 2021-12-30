@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Licorice&display=swap');
+/* fuente licorice nosotros */
+
+*{
+    padding: 0;
+    margin: 0; 
+}
+
+
+.navbar-brand img{
+    height: 90px;
+    width: auto;
+}
+.jumbotron{
+    background-image: url(img/pyra.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    margin: 0;
+}
+h1{
+    color: black;
+    text-shadow: 0 0 5px #333;
+    font-size: 45px;
+}
+.jumbotron{
+    color: blue;
+    border-radius: 0;
+    padding: 0;
+}
+h2{
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+    padding: 15px;
+    font-family: 'Licorice', cursive;
+    font-size: 45px
+}
