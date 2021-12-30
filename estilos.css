@@ -36,3 +36,21 @@ h2{
     font-family: 'Licorice', cursive;
     font-size: 45px
 }
+.n-left{
+    height: 500px;
+    background-color: cadetblue;
+}
+.n-right{
+    height: 500px;
+    background-color: cornflowerblue;
+}
+.n-left p{
+    color: black;
+    padding: 20px;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.n-right img{
+    width: 80%;
+    
+}
