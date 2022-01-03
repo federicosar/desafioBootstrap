@@ -43,5 +43,8 @@ h2{
 .n-right{
     height: 500px;
     background-color: cornflowerblue;
-    
+
+}
+.n-right img{
+    width: 80%;
 }
