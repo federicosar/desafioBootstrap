@@ -39,6 +39,7 @@ h2{
 .n-left{
     height: 500px;
     background-color: cadetblue;
+    border: 2px solid black;
 }
 .n-right{
     height: 500px;
