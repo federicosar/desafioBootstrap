@@ -6,7 +6,7 @@
     margin: 0; 
 }
 
-
+/* principio de index */
 .navbar-brand img{
     height: 90px;
     width: auto;
@@ -24,7 +24,9 @@ h1{
     font-size: 45px;
 }
 .jumbotron{
-    color: blue;
+    font-size: 20px;
+    text-shadow: 0 0 3px black;
+    color: rgba(238, 238, 232, 0.904);
     border-radius: 0;
     padding: 0;
 }
@@ -40,6 +42,7 @@ h2{
     height: 500px;
     background-color: cadetblue;
     border: 2px solid black;
+    color: blanchedalmond;
 }
 .n-right{
     height: 500px;
@@ -47,13 +50,24 @@ h2{
 
 }
 .n-right img{
-    width: 80%;
+    padding-top: 40px;
+    padding-left: 20px;
+    object-fit: contain;
+    max-height: 450px;
 }
 
+/* final de index */
+
 /* principio carousel */
+.carousel-inner {
+    background-color:rgb(61, 61, 61);
+}
+
 .carousel-inner img {
     width: 100%;
     max-height: 460px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     object-fit: contain;
 }
 /* fin carousel */
